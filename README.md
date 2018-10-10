@@ -1,4 +1,5 @@
-# SPE_GS_DL
+# SPE 1-Day Short-Course "How to get started in Deep Learning"
+### Automatic Seismic Interpretation Demo
 
 This repository contains a demo-application for automated seismic interpretation using convolutional neural networks.
 The accompanying notebook was created for the SPE 1-Day Short Course on How to get started with Deep Learning.
